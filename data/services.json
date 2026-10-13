@@ -1,0 +1,97 @@
+{
+  "services": [
+    {
+      "id": "weddingengagement",
+      "title": "Wedding & Engagement",
+      "shortDescription": "Elegant and unforgettable celebrations.",
+      "fullDescription": "These moments stay with you forever — the yes, the vows, the feeling of stepping into a new chapter together. We design every detail of your wedding or engagement with intention, from the floral arrangements to the final farewell.",
+      "image": "../images/weddingAisle.jpg",
+      "icon": "💍",
+      "features": [
+        "Full event concept and design",
+        "Vendor coordination and management",
+        "On-the-day coordination",
+        "Custom décor and floral styling",
+        "Timeline and logistics planning"
+      ]
+    },
+    {
+      "id": "birthdaytheme",
+      "title": "Birthday Parties & Custom Theme Parties",
+      "shortDescription": "Magical intimate gatherings.",
+      "fullDescription": "Birthdays and themed celebrations deserve to feel joyful, warm, and full of personality. Whether it's an intimate dinner or a grand themed party, we bring your vision to life with creativity and care.",
+      "image": "../images/birthdaytable.jpg",
+      "icon": "🎂",
+      "features": [
+        "Custom theme development",
+        "Décor and styling",
+        "Entertainment coordination",
+        "Catering referrals",
+        "Guest experience management"
+      ]
+    },
+    {
+      "id": "baby",
+      "title": "Gender Reveal & Baby Shower",
+      "shortDescription": "Sweet celebrations filled with love and anticipation.",
+      "fullDescription": "These moments are filled with excitement, love, and the sweetest kind of anticipation. We create beautiful, personalized baby showers and gender reveals that celebrate this precious milestone with elegance and warmth.",
+      "image": "../images/babyShower.jpg",
+      "icon": "🍼",
+      "features": [
+        "Themed setup and décor",
+        "Reveal concept design",
+        "Invitations and stationery",
+        "Catering and cake coordination",
+        "Guest activities planning"
+      ]
+    },
+    {
+      "id": "corporate",
+      "title": "Corporate Events & Brand Events",
+      "shortDescription": "Professional and impactful experiences.",
+      "fullDescription": "Every brand has a story — and we help you tell yours through experiences that feel modern, intentional, and meaningful. From product launches to galas and team events, we handle every detail with professionalism and creativity.",
+      "image": "../images/brand.jpg",
+      "icon": "🏢",
+      "features": [
+        "Brand-aligned concept design",
+        "Venue sourcing and setup",
+        "Audio-visual coordination",
+        "Guest management",
+        "Post-event reporting"
+      ]
+    },
+    {
+      "id": "graduation",
+      "title": "Graduation Parties",
+      "shortDescription": "Milestone celebrations done beautifully.",
+      "fullDescription": "Graduation is one of those milestones that fills your heart with pride, excitement, and a sense of achievement. We create graduation celebrations that honor your journey and create memories you'll carry for life.",
+      "image": "../images/grad.jpg",
+      "icon": "🎓",
+      "features": [
+        "Venue decoration and styling",
+        "Personalized themes",
+        "Photography setup",
+        "Catering coordination",
+        "Guest seating and logistics"
+      ]
+    }
+  ],
+  "whyChooseUs": [
+    {
+      "title": "Intentional Design",
+      "description": "Every detail is chosen with purpose, emotion, and aesthetic direction."
+    },
+    {
+      "title": "Personalized Styling",
+      "description": "Your story, your style, your moment — beautifully brought to life."
+    },
+    {
+      "title": "Seamless Experience",
+      "description": "From planning to execution, we make the process effortless and elegant."
+    },
+    {
+      "title": "Timeless Aesthetic",
+      "description": "Soft, modern, and luxury-driven styling that never goes out of style."
+    }
+  ]
+}

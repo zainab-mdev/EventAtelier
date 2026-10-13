@@ -1,0 +1,63 @@
+{
+  "companyName": "Event Atelier",
+  "tagline": "Crafting Timeless Celebrations",
+  "description": "Event Atelier is a luxury event planning company based in Dubai, UAE. Founded in 2022 by Zainab and Aisha, we transform client visions into beautifully curated celebrations — from intimate gatherings to grand events.",
+  "founded": "2022",
+  "location": "Dubai, United Arab Emirates",
+  "email": "info@eventatelier.com",
+  "phone": "+971 55 123 4567",
+  "whatsapp": "https://wa.me/971585476341",
+  "socials": {
+    "instagram": "https://instagram.com/eventatelier",
+    "pinterest": "https://pinterest.com/eventatelier",
+    "facebook": "https://facebook.com/eventatelier"
+  },
+  "vision": "To redefine modern celebrations through thoughtful design, creativity, and unforgettable experiences that leave a lasting impression.",
+  "mission": "To provide personalized planning and seamless execution, bringing each client's unique vision to life while managing every detail from concept to completion.",
+  "values": [
+    {
+      "icon": "🎨",
+      "title": "Creativity",
+      "description": "Every event is uniquely designed and thoughtfully curated to reflect the client's vision and personality."
+    },
+    {
+      "icon": "⏱️",
+      "title": "Reliability",
+      "description": "We are committed to delivering seamless planning and dependable execution from start to finish."
+    },
+    {
+      "icon": "🤝",
+      "title": "Client Focus",
+      "description": "Every decision begins with understanding our clients' needs, goals, and dreams for their special occasion."
+    },
+    {
+      "icon": "💡",
+      "title": "Innovation",
+      "description": "We embrace fresh ideas, modern trends, and creative solutions to craft exceptional experiences."
+    }
+  ],
+  "stats": {
+    "eventsPlanned": "1000+",
+    "happyClients": "2000+",
+    "teamMembers": 4,
+    "clientSatisfaction": "100%"
+  },
+  "timeline": [
+    {
+      "year": "2022",
+      "milestone": "Event Atelier is founded by Zainab and Aisha with a vision to bring dream celebrations to life through creative event planning."
+    },
+    {
+      "year": "2023",
+      "milestone": "Successfully delivers a growing portfolio of events while building trusted relationships with clients, vendors, and partners."
+    },
+    {
+      "year": "2024",
+      "milestone": "Expands services and establishes a reputation for personalized and memorable event experiences."
+    },
+    {
+      "year": "2025",
+      "milestone": "Continues to grow as a modern event planning brand, refining every aspect of the client experience."
+    }
+  ]
+}

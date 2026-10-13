@@ -1,0 +1,323 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Our Works | Event Atelier</title>
+
+    <link rel="shortcut icon" href="../images/favicon.png" />
+    <link rel="icon" type="image/png" href="../images/favicon.png" />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,600;1,300&family=Jost:wght@300;400&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../CSS/style.css" />
+  </head>
+  <body>
+    <!-- ============================================================
+         HEADER
+         Sticky navigation bar shown at the top of every page.
+         The logo sits on the left, nav links on the right.
+    ============================================================ -->
+    <header>
+      <div class="logo">
+        <img src="../images/EventAtelierLogo.png" alt="Event Atelier" />
+      </div>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="Aboutus.html">About Us</a></li>
+          <li><a href="services.html">Services</a></li>
+          <li><a href="team.html">Team</a></li>
+          <li><a href="works.html" class="active">Works</a></li>
+          <li><a href="contact.html">Connect With Us</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <!-- ============================================================
+         HERO SECTION
+         Full-screen banner with a background image, dark overlay,
+         and centered text on top.
+    ============================================================ -->
+    <section class="hero works-hero">
+      <div class="hero-overlay"></div>
+      <div class="hero-content">
+        <p class="eyebrow">Our Portfolio</p>
+        <h1>Celebrations That<br /><em>Speak for Themselves</em></h1>
+        <p class="hero-sub">A glimpse into the magic we have created.</p>
+      </div>
+    </section>
+
+    <!-- ============================================================
+         GALLERY SECTION
+         Masonry-style grid of event photos.
+         Images fade in on scroll via the JS IntersectionObserver below.
+    ============================================================ -->
+    <section class="works-gallery fade-in">
+      <p class="label center">Previous Works</p>
+      <h2 class="center">Snapshots of Our Events</h2>
+
+      <div class="masonry-grid">
+        <img src="../images/pool.jpg" alt="Pool Event" />
+        <img src="../images/garden1.jpg" alt="Corporate Event" />
+        <img src="../images/corporate.jpg" alt="Garden Party" />
+        <img src="../images/engagement.jpg" alt="Engagement" />
+        <img src="../images/birthday.jpg" alt="Birthday Celebration" />
+        <img src="../images/beachwedding.jpg" alt="Beach Wedding" />
+        <img src="../images/desertdinner.jpg" alt="Desert Dinner" />
+        <img src="../images/grad.jpg" alt="Graduation Event" />
+        <img src="../images/galentines.jpg" alt="Galentines Event" />
+        <img src="../images/babyshower.jpg" alt="Baby Shower" />
+        <img src="../images/brand1.jpg" alt="Brand Event" />
+        <img src="../images/brand2.jpg" alt="Brand Event" />
+        <img src="../images/festival.jpg" alt="Festival Event" />
+        <img src="../images/pooleng.jpg" alt="Poolside Engagement" />
+        <img src="../images/charmmaking.jpg" alt="Charm Making Workshop" />
+        <img src="../images/graduation.jpg" alt="Graduation Celebration" />
+      </div>
+    </section>
+
+    <!-- ============================================================
+         EVENT CATEGORIES SECTION
+         3-card grid showing the types of events we plan.
+         Cards lift and show a pink border on hover.
+    ============================================================ -->
+    <section class="works-categories fade-in">
+      <p class="label center">What We Plan</p>
+      <h2 class="center">Every Occasion, Perfected</h2>
+
+      <div class="cat-grid">
+        <div class="cat-card">
+          <div class="cat-icon">💍</div>
+          <h4>Weddings & Engagements</h4>
+          <p>
+            Romantic, personalized, and absolutely unforgettable. From intimate
+            ceremonies to grand celebrations.
+          </p>
+        </div>
+        <div class="cat-card">
+          <div class="cat-icon">🏢</div>
+          <h4>Corporate Events</h4>
+          <p>
+            Professional, creative, and seamless. We handle brand launches,
+            galas, and team gatherings with precision.
+          </p>
+        </div>
+        <div class="cat-card">
+          <div class="cat-icon">🎉</div>
+          <h4>Social Celebrations</h4>
+          <p>
+            Birthdays, baby showers, graduations — vibrant events designed
+            around the people who matter most.
+          </p>
+        </div>
+      </div>
+    </section>
+    <!-- ============================================================
+         PLANNING PROCESS SECTION
+         Vertical timeline with 4 steps.
+         The pink fill line animates upward as you scroll (JS below).
+    ============================================================ -->
+    <section class="works-process fade-in">
+      <p class="label center">How It Works</p>
+      <h2 class="center">From Vision to Reality</h2>
+
+      <div class="process-steps">
+        <!-- Animated pink fill line controlled by scroll JS -->
+        <div class="process-fill"></div>
+
+        <div class="process-step">
+          <div class="step-num">1</div>
+          <div class="step-content">
+            <span class="step-label">Step One</span>
+            <h4>Discovery Call</h4>
+            <p>
+              We start with a conversation to understand your vision, style, and
+              goals for the event.
+            </p>
+          </div>
+        </div>
+
+        <div class="process-step">
+          <div class="step-num">2</div>
+          <div class="step-content">
+            <span class="step-label">Step Two</span>
+            <h4>Concept & Proposal</h4>
+            <p>
+              Our team creates a personalized mood board, budget outline, and
+              event concept just for you.
+            </p>
+          </div>
+        </div>
+
+        <div class="process-step">
+          <div class="step-num">3</div>
+          <div class="step-content">
+            <span class="step-label">Step Three</span>
+            <h4>Planning & Design</h4>
+            <p>
+              From décor and vendors to timelines and menus — we manage every
+              detail so you don't have to.
+            </p>
+          </div>
+        </div>
+
+        <div class="process-step">
+          <div class="step-num">4</div>
+          <div class="step-content">
+            <span class="step-label">Step Four</span>
+            <h4>Flawless Execution</h4>
+            <p>
+              We bring your event to life exactly as imagined, while you enjoy
+              every moment, stress-free.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================================================
+         CLIENT REVIEWS CAROUSEL
+         Horizontally scrolling carousel of review cards.
+         Controlled by prev/next buttons, dot indicators, and swipe.
+    ============================================================ -->
+    <section class="reviews-section fade-in">
+      <div class="reviews-inner">
+        <p class="label center">Client Love</p>
+        <h2 class="center">What Our Clients Say</h2>
+
+        <div class="carousel-wrap">
+          <div class="carousel-track" id="reviewTrack">
+            <div class="rev-card">
+              <div class="rev-stars">★★★★★</div>
+              <blockquote>
+                "Event Atelier turned our dream wedding into reality. Every
+                single detail was perfect — we couldn't have asked for more."
+              </blockquote>
+              <span class="rev-author">— Sarah & Omar, Wedding</span>
+            </div>
+            <div class="rev-card">
+              <div class="rev-stars">★★★★★</div>
+              <blockquote>
+                "Professional, creative, and incredibly reliable. Our corporate
+                gala was a huge success and our guests were blown away."
+              </blockquote>
+              <span class="rev-author">— TechCorp, Corporate Gala</span>
+            </div>
+            <div class="rev-card">
+              <div class="rev-stars">★★★★★</div>
+              <blockquote>
+                "They made my 30th birthday completely unforgettable. The décor,
+                the energy, the attention to detail — absolutely stunning."
+              </blockquote>
+              <span class="rev-author">— Fatima, Birthday Celebration</span>
+            </div>
+            <div class="rev-card">
+              <div class="rev-stars">★★★★★</div>
+              <blockquote>
+                "Our baby shower was a dream. The team took care of everything
+                and it was more beautiful than anything I could have imagined."
+              </blockquote>
+              <span class="rev-author">— Mariam, Baby Shower</span>
+            </div>
+            <div class="rev-card">
+              <div class="rev-stars">★★★★★</div>
+              <blockquote>
+                "From the first call to the final moment, the team was warm,
+                organized, and so talented. Our engagement party was magical."
+              </blockquote>
+              <span class="rev-author">— Lana & Khalid, Engagement</span>
+            </div>
+            <div class="rev-card">
+              <div class="rev-stars">★★★★★</div>
+              <blockquote>
+                "I trusted Event Atelier with my graduation dinner and they
+                exceeded every expectation."
+              </blockquote>
+              <span class="rev-author">— Hessa, Graduation Dinner</span>
+            </div>
+            <div class="rev-card">
+              <div class="rev-stars">★★★★★</div>
+              <blockquote>
+                "Our brand launch was flawless. They understood our vision
+                immediately and executed it even better than we pictured."
+              </blockquote>
+              <span class="rev-author">— Studio Blanc, Brand Launch</span>
+            </div>
+            <div class="rev-card">
+              <div class="rev-stars">★★★★★</div>
+              <blockquote>
+                "The desert dinner they organized for our anniversary was beyond
+                words. The setup, the lighting, the atmosphere — perfection."
+              </blockquote>
+              <span class="rev-author">— Noor & Rashed, Anniversary</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Carousel prev/next buttons and dot indicators -->
+        <div class="carousel-controls">
+          <button class="carousel-btn" id="prevBtn" aria-label="Previous">
+            &#8592;
+          </button>
+          <div class="carousel-dots" id="dots"></div>
+          <button class="carousel-btn" id="nextBtn" aria-label="Next">
+            &#8594;
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================================================
+         CALL TO ACTION SECTION
+         Centered prompt linking to the Services page.
+    ============================================================ -->
+    <section class="works-cta fade-in">
+      <p class="label center">Let's Work Together</p>
+      <h2 class="center">Ready to Create Your Event?</h2>
+      <p class="center">
+        Explore our services and let's bring your vision to life — one beautiful
+        detail at a time.
+      </p>
+      <div class="center">
+        <a href="services.html" class="btn">View Our Services</a>
+      </div>
+    </section>
+
+    <!-- ============================================================
+         FLOATING WHATSAPP BUTTON
+         Fixed to the bottom-right corner on all pages.
+         Clicking opens a WhatsApp chat in a new tab.
+    ============================================================ -->
+    <div class="whatsapp-wrapper">
+      <a
+        href="https://wa.me/971585476341"
+        class="whatsapp-float"
+        target="_blank"
+      >
+        <img src="../images/whatsapp.png" alt="WhatsApp" />
+      </a>
+      <span class="whatsapp-text">Talk to us</span>
+    </div>
+
+    <!-- ============================================================
+         FOOTER
+         Simple dark footer with the brand name and copyright.
+    ============================================================ -->
+    <footer>
+      <p class="footer-logo">Event Atelier</p>
+      <p>© 2026 Event Atelier. All rights reserved.</p>
+    </footer>
+
+    <!-- ============================================================
+         JAVASCRIPT
+    ============================================================ -->
+    <div id="lightbox" class="lightbox">
+      <span id="closeLightbox">&times;</span>
+      <img id="lightboxImg" />
+    </div>
+    <script src="../Javascript/work.js"></script>
+  </body>
+</html>

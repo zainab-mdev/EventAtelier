@@ -1,0 +1,50 @@
+{
+  "founders": [
+    {
+      "id": "zainab",
+      "name": "Zainab",
+      "role": "Co-Founder & Creative Director",
+      "quote": "Turning inspiration into unforgettable experiences.",
+      "specialty": "Creative Journey",
+      "bio": "With a passion for design and a keen eye for detail, Zainab leads the creative vision behind Event Atelier. She transforms ideas into beautifully curated experiences while ensuring every event reflects the personality and dreams of each client.",
+      "image": "../images/zainab.jpg",
+      "email": "zainab@eventatelier.ae",
+      "phone": "+971 XX XXX XXXX"
+    },
+    {
+      "id": "aisha",
+      "name": "Aisha",
+      "role": "Co-Founder & Managing Director",
+      "quote": "Creativity lives in the details.",
+      "specialty": "Marketing & Strategy",
+      "bio": "Aisha combines organization, strategy, and creativity to ensure every event runs smoothly from concept to completion. Her marketing mindset and client-focused approach help bring each celebration to life with purpose and precision.",
+      "image": "../images/aisha.jpg",
+      "email": "aisha@eventatelier.ae",
+      "phone": "+971 XX XXX XXXX"
+    }
+  ],
+  "members": [
+    {
+      "id": "raina",
+      "name": "Raina",
+      "role": "Event Coordinator",
+      "quote": "Great events begin with great planning.",
+      "specialty": "Planning Expertise",
+      "bio": "Raina is the organizational powerhouse of the team, managing logistics, schedules, and event timelines. Her calm attitude and problem-solving skills ensure every event unfolds seamlessly.",
+      "image": "../images/raina.jpg",
+      "email": "raina@eventatelier.ae",
+      "phone": "+971 XX XXX XXXX"
+    },
+    {
+      "id": "sabrina",
+      "name": "Sabrina",
+      "role": "Client Experience Manager",
+      "quote": "Every guest should feel special.",
+      "specialty": "Client Experience",
+      "bio": "Sabrina focuses on creating exceptional client experiences from the first consultation to post-event follow-up. Her warmth, attention to detail, and dedication help create memorable experiences for every client.",
+      "image": "../images/sabrina.jpg",
+      "email": "sabrina@eventatelier.ae",
+      "phone": "+971 XX XXX XXXX"
+    }
+  ]
+}

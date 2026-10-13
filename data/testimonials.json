@@ -1,0 +1,60 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "stars": 5,
+      "review": "Event Atelier turned our dream wedding into reality. Every single detail was perfect — we couldn't have asked for more.",
+      "author": "Sarah & Omar",
+      "eventType": "Wedding"
+    },
+    {
+      "id": 2,
+      "stars": 5,
+      "review": "Professional, creative, and incredibly reliable. Our corporate gala was a huge success and our guests were blown away.",
+      "author": "TechCorp",
+      "eventType": "Corporate Gala"
+    },
+    {
+      "id": 3,
+      "stars": 5,
+      "review": "They made my 30th birthday completely unforgettable. The décor, the energy, the attention to detail — absolutely stunning.",
+      "author": "Fatima",
+      "eventType": "Birthday Celebration"
+    },
+    {
+      "id": 4,
+      "stars": 5,
+      "review": "Our baby shower was a dream. The team took care of everything and it was more beautiful than anything I could have imagined.",
+      "author": "Mariam",
+      "eventType": "Baby Shower"
+    },
+    {
+      "id": 5,
+      "stars": 5,
+      "review": "From the first call to the final moment, the team was warm, organized, and so talented. Our engagement party was magical.",
+      "author": "Lana & Khalid",
+      "eventType": "Engagement"
+    },
+    {
+      "id": 6,
+      "stars": 5,
+      "review": "I trusted Event Atelier with my graduation dinner and they exceeded every expectation.",
+      "author": "Hessa",
+      "eventType": "Graduation Dinner"
+    },
+    {
+      "id": 7,
+      "stars": 5,
+      "review": "Our brand launch was flawless. They understood our vision immediately and executed it even better than we pictured.",
+      "author": "Studio Blanc",
+      "eventType": "Brand Launch"
+    },
+    {
+      "id": 8,
+      "stars": 5,
+      "review": "The desert dinner they organized for our anniversary was beyond words. The setup, the lighting, the atmosphere — perfection.",
+      "author": "Noor & Rashed",
+      "eventType": "Anniversary"
+    }
+  ]
+}

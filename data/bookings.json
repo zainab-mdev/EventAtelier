@@ -1,0 +1,28 @@
+{
+  "bookings": [
+    {
+      "serviceType": "weddingengagement",
+      "name": "test",
+      "email": "test@gmail.com",
+      "phone": "1234567891011",
+      "eventDate": "2026-06-30",
+      "eventLocation": "dxb",
+      "consultMethod": "whatsapp",
+      "budget": "25000000",
+      "message": "test test test",
+      "submittedAt": "2026-06-23T21:04:48.095Z"
+    },
+    {
+      "serviceType": "birthdaytheme",
+      "name": "tester",
+      "email": "test123@gmail.com",
+      "phone": "12345678910",
+      "eventDate": "2026-06-30",
+      "eventLocation": "dxbdxb",
+      "consultMethod": "email",
+      "budget": "2500000",
+      "message": "hi hi hello",
+      "submittedAt": "2026-06-24T06:39:58.467Z"
+    }
+  ]
+}
